@@ -1,12 +1,26 @@
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="500" height="290"></br>## :wave: Hi there, I'm Ariel<font color="pink"> :heavy_check_mark: I'm a Front-End Developer. </font>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="500" height="290"></br>
+
+## :wave: Hi there, I'm Ariel
+
+<font color="pink"> :heavy_check_mark: I'm a Front-End Developer. </font>
 </br>
 <font color="pink">:fireworks: Exploring routes to new visions and be a part of the new visions. </font>
 </br>
 <font color="pink"> :face_with_monocle: A new age enthusiast. </font>
 </br>
-<font color="pink">:coffee: Coffee is how I keep up with code</font>## :man::woman: Connect with me:[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
+<font color="pink">:coffee: Coffee is how I keep up with code</font>
+
+## :man::woman: Connect with me:
+
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]
+(https://www.linkedin.com/in/)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:akivv45@gmail.com)
-[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)]()<p align="left"> <img src="https://komarev.com/ghpvc/?username=" alt=""/></p></br><h2 align="center">:rocket:Technical Skills</h2>
+[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)]()
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=" alt=""/></p>
+
+
+</br><h2 align="center">:rocket:Technical Skills</h2>
 <div align="center">
 <img
         src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
