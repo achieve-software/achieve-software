@@ -93,12 +93,14 @@ JQUERY-TYPESCRİPT-REACT-JAVA-C#-PYTHON 👈👈👈
 <br/>
         
 <img
-     src="https://github-readme-stats.vercel.app/api?username=axel-ac&theme=blue-green"
+     src="https://github-readme-stats.vercel.app/api?username= achieve-software
+&theme=blue-green"
      alt=""
      /> </br></br></br>
      
 <img
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=axel-ac&theme=blue-green"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username= achieve-software
+&theme=blue-green"
      alt=""
      /> <br/>
 </div>
