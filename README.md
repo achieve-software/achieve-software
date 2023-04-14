@@ -92,31 +92,15 @@ JQUERY-TYPESCRİPT-REACT-JAVA-C#-PYTHON 👈👈👈
         
 <br/>
         
+<h2 align="center">:bulb:Most Used Language</h2>
+<div  align="center">
+<br/>
 <img
-     src="https://github-readme-stats.vercel.app/api?username= achieve-software
-&theme=blue-green"
+     src="https://github-readme-stats.vercel.app/api?username=achieve-software&theme=blue-green"
      alt=""
      /> </br></br></br>
-     
 <img
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username= achieve-software
-&theme=blue-green"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=achieve-software&theme=blue-green"
      alt=""
      /> <br/>
 </div>
-GitHubGitHub
-GitHub - achieve-software/React-Projects
-Contribute to achieve-software/React-Projects development by creating an account on GitHub. (49 kB)
-https://github.com/achieve-software/React-Projects
-GitHubGitHub
-GitHub - achieve-software/JavaScript-Projects
-Contribute to achieve-software/JavaScript-Projects development by creating an account on GitHub. (46 kB)
-https://github.com/achieve-software/JavaScript-Projects
-GitHubGitHub
-GitHub - achieve-software/Html-Css-Projects
-Contribute to achieve-software/Html-Css-Projects development by creating an account on GitHub.
-https://github.com/achieve-software/Html-Css-Projects
-GitHubGitHub
-GitHub - achieve-software/JavaScript-Questions
-Contribute to achieve-software/JavaScript-Questions development by creating an account on GitHub. (47 kB)
-https://github.com/achieve-software/JavaScript-Questions 
