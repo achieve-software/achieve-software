@@ -74,22 +74,29 @@ JQUERY-TYPESCRİPT-REACT-JAVA-C#-PYTHON 👈👈👈
 <a href="https://github.com/achieve-software/React-Projects" target="_blank" style="text-decoration: none;margin-right:"><img src="./img/React.png" style="height:60px; width: fit-content;" ></a>
 <a href="https://github.com/achieve-software/JavaScript-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/JavaScript.png" style="height:60px; width: fit-content;" ></a>
 <a href="https://github.com/achieve-software/Html-Css-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/Html-Css.png" style="height:60px; width: fit-content;" ></a>
+
 </br></br>
 <a href="https://github.com/achieve-software/JavaScript-Questions" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/jjj.png" style="height:60px; width: fit-content;" ></a>
 
 </br>
 
-<h2 align="center">My Top Projects</h2>###Project Demo       |Libraries and Technologies I use     |Project Preview
+<h2 align="center">My Top Projects</h2>
+
+
+###Project Demo       |Libraries and Technologies I use     |Project Preview
 :-------------------------|-------------------------|-------------------------
 [IOS Calculator](https://github.com/achieve-software/5IosCalculator) <h3>[Repo](https://github.com/achieve-software/5IosCalculator)</h3> | Vanilla JS | ![IOS-Calculator](https://user-images.githubusercontent.com/102467587/218919393-a57f0668-ba05-4e3f-83d3-53a9dfdd9fdf.gif)
 [Bootstrap Web Page](https://github.com/achieve-software/7bootstrap) <h3>[Repo](https://github.com/achieve-software/7bootstrap)</h3> | Boostrap |![Bootsrap-Project](https://user-images.githubusercontent.com/102467587/219783358-be888a33-5332-45ef-bc40-5a6adeb73b8e.gif)
 [Sass Website Page Design](https://github.com/achieve-software/6Sass) <h3>[Repo](https://github.com/achieve-software/6Sass</h3> | Sass, Scss |![Sass-project](https://user-images.githubusercontent.com/102467587/219283604-7709569d-e7fa-4e46-8e3f-55b563f9d79c.gif)<br><h2 align="center">:bulb:Most Used Language</h2>
 <div  align="center"> 
+        
 <br/>
+        
 <img
      src="https://github-readme-stats.vercel.app/api?username=axel-ac&theme=blue-green"
      alt=""
      /> </br></br></br>
+     
 <img
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=axel-ac&theme=blue-green"
      alt=""
