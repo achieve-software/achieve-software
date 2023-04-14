@@ -63,7 +63,7 @@
 <a href="https://github.com/achieve-software/JavaScript-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/JavaScript.png" style="height:60px; width: fit-content;" ></a>
 <a href="https://github.com/achieve-software/Html-Css-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/Html-Css.png" style="height:60px; width: fit-content;" ></a>
 </br></br>
-<a href="https://github.com/achieve-software/JavaScript-Questions" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/JS-Questions.png" style="height:60px; width: fit-content;" ></a>
+<a href="https://github.com/achieve-software/JavaScript-Questions" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/jjj.png" style="height:60px; width: fit-content;" ></a>
 
 </br>
 
