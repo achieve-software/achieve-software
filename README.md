@@ -4,9 +4,9 @@
 
 <font color="pink"> :heavy_check_mark: I'm a Front-End Developer. </font>
 </br>
-👇 HTML-CSS-SASS-BOOTSTRAP-JAVASCRİPT
+👉👉👉 HTML-CSS-SASS-BOOTSTRAP-JAVASCRİPT
 JQUERY-TYPESCRİPT-REACT-NODE.JS-ANGULAR-VUE
-JAVA-C#-PYTHON-DJANGO-KOTLİN-ANDROİD-SQL
+JAVA-C#-PYTHON-DJANGO-KOTLİN-ANDROİD-SQL👈👈👈
 
 ## :man::woman: Connect with me:
 
