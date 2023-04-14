@@ -5,8 +5,7 @@
 <font color="pink"> :heavy_check_mark: I'm a Front-End Developer. </font>
 </br>
 👉👉👉 HTML-CSS-SASS-BOOTSTRAP-JAVASCRİPT
-JQUERY-TYPESCRİPT-REACT-NODE.JS-ANGULAR-VUE
-JAVA-C#-PYTHON-DJANGO-KOTLİN-ANDROİD-SQL👈👈👈
+JQUERY-TYPESCRİPT-REACT-JAVA-C#-PYTHON 👈👈👈
 
 ## :man::woman: Connect with me:
 
