@@ -10,7 +10,7 @@ JQUERY-TYPESCRİPT-REACT-JAVA-C#-PYTHON 👈👈👈
 
 ## :man::woman: Connect with me:
 
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]
+![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)
 
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:akivv45@gmail.com)
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)]()
@@ -87,7 +87,7 @@ JQUERY-TYPESCRİPT-REACT-JAVA-C#-PYTHON 👈👈👈
 :-------------------------|-------------------------|-------------------------
 [IOS Calculator](https://github.com/achieve-software/5IosCalculator) <h3>[Repo](https://github.com/achieve-software/5IosCalculator)</h3> | Vanilla JS | ![IOS-Calculator](https://raw.githubusercontent.com/achieve-software/gif/main/cal.gif)
 [Bootstrap Web Page](https://github.com/achieve-software/7bootstrap) <h3>[Repo](https://github.com/achieve-software/7bootstrap)</h3> | Bootstrap |![Bootsrap-Project](https://github.com/achieve-software/gif/blob/main/boot.gif)
-[Sass Website Page Design](https://github.com/achieve-software/6Sass) <h3>[Repo](https://github.com/achieve-software/6Sass)</h3> | Sass, Scss |![Sass-project](https://github.com/achieve-software/gif/blob/main/boot.gif)
+[Sass Website Page Design](https://github.com/achieve-software/6Sass) <h3>[Repo](https://github.com/achieve-software/6Sass)</h3> | Sass, Scss |![Sass-project](https://github.com/achieve-software/gif/blob/main/sasss.gif)
 <div  align="center"> 
         
 <br/>
