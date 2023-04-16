@@ -89,7 +89,7 @@ JQUERY-TYPESCRİPT-REACT-JAVA-C#-PYTHON 👈👈👈
 [Bootstrap Web Page](https://playful-syrniki-8b0921.netlify.app/) <h3>[Repo](https://github.com/achieve-software/7bootstrap)</h3> | Bootstrap |![Bootsrap-Project]( https://raw.githubusercontent.com/achieve-software/gif/main/bs(7)-min.gif)
 [Sass Website Page Design](https://fluffy-brigadeiros-21af96.netlify.app/) <h3>[Repo](https://github.com/achieve-software/6Sass)</h3> | Sass, Scss |![Sass-project](https://raw.githubusercontent.com/achieve-software/gif/main/sasss(2)-min.gif)
 [GuessTheNumber](https://github.com/achieve-software/3guessnumber) <h3>[Repo](https://github.com/achieve-software/3guessnumber)</h3> | JavaScript, Html, Css |![JavaScript-project](https://github.com/achieve-software/gif/blob/main/sasss.gif)
-[Google Landing](https://github.com/achieve-software/2googleLand) <h3>[Repo](https://github.com/achieve-software/2googleLand)</h3> | Html, Css | ![GoogleLanding](https://raw.githubusercontent.com/achieve-software/gif/main/google.gif)
+[Google Landing](https://stately-boba-9ac91e.netlify.app/) <h3>[Repo](https://github.com/achieve-software/2googleLand)</h3> | Html, Css | ![GoogleLanding](https://raw.githubusercontent.com/achieve-software/gif/main/google.gif)
 <div  align="center"> 
         
 <br/>
