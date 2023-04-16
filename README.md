@@ -79,7 +79,7 @@ JQUERY-TYPESCRİPT-REACT-JAVA-C#-👈👈👈
 </br>
 <!--<div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>-->
 
-## :star2: My Projects:
+## :star2: Some Of My Projects:
 
 <a href="https://github.com/achieve-software/React-Projects" target="_blank" style="text-decoration: none;margin-right:"><img src="./img/React.png" style="height:80px; width: fit-content;" ></a>
 <a href="https://github.com/achieve-software/JavaScript-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/JavaScript.png" style="height:80px; width: fit-content;" ></a>
