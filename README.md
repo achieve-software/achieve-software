@@ -102,7 +102,7 @@ JQUERY-TYPESCRİPT-REACT-JAVA-C#-👈👈👈
 [Google Landing Page](https://stately-boba-9ac91e.netlify.app/) <h3>[Repo](https://github.com/achieve-software/2googleLand)</h3> | Html, Css | ![GoogleLanding](https://raw.githubusercontent.com/achieve-software/gif/main/google.gif)
 [Web Site Page](https://cosmic-queijadas-ef475f.netlify.app/) <h3>[Repo](https://github.com/achieve-software/4websitePage)</h3> | Html, Css | ![Web-Site-Page](https://raw.githubusercontent.com/achieve-software/gif/main/web.gif)
 [Parallax Web Site Page](https://visionary-griffin-d66991.netlify.app/) <h3>[Repo](https://github.com/achieve-software/3parallaxweb)</h3> | Html, Css | ![Parallax-Web-Site-Page](https://raw.githubusercontent.com/achieve-software/gif/main/parallax-min.gif)
-[Survey Form Page](https://tourmaline-tapioca-5a2336.netlify.app/) <h3>[Repo](https://github.com/achieve-software/1shop)</h3> | Html, Css | ![Survey-Form](https://raw.githubusercontent.com/achieve-software/gif/main/form1.gif)
+[Survey Form Page](https://tourmaline-tapioca-5a2336.netlify.app/) <h3>[Repo](https://github.com/achieve-software/1shop)</h3> | Html, Css | ![Survey-Form]()
 <div  align="center"> 
         
 <br/>
