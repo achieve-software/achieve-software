@@ -53,6 +53,16 @@ JQUERY-TYPESCRİPT-REACT-JAVA-C#-👈👈👈
      alt="VSCode"
      />
 </br>
+<img
+     src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"
+     alt="Java"
+     />
+</br>
+<img
+     src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"
+     alt="C#"
+     />
+</br>
 <!-- <img
         src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
         alt="Python"
