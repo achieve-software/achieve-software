@@ -6,7 +6,7 @@
 </br>
 👉👉👉 HTML-CSS-SASS-BOOTSTRAP-JAVASCRİPT
 
-JQUERY-TYPESCRİPT-REACT-JAVA-C#-PYTHON 👈👈👈
+JQUERY-TYPESCRİPT-REACT-JAVA-C#-👈👈👈
 
 ## :man::woman: Connect with me:
 
