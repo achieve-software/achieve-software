@@ -71,12 +71,12 @@ JQUERY-TYPESCRİPT-REACT-JAVA-C#-PYTHON 👈👈👈
 
 ## :star2: My Projects:
 
-<a href="https://github.com/achieve-software/React-Projects" target="_blank" style="text-decoration: none;margin-right:"><img src="./img/React.png" style="height:60px; width: fit-content;" ></a>
-<a href="https://github.com/achieve-software/JavaScript-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/JavaScript.png" style="height:60px; width: fit-content;" ></a>
-<a href="https://github.com/achieve-software/Html-Css-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/Html-Css.png" style="height:60px; width: fit-content;" ></a>
+<a href="https://github.com/achieve-software/React-Projects" target="_blank" style="text-decoration: none;margin-right:"><img src="./img/React.png" style="height:80px; width: fit-content;" ></a>
+<a href="https://github.com/achieve-software/JavaScript-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/JavaScript.png" style="height:80px; width: fit-content;" ></a>
+<a href="https://github.com/achieve-software/Html-Css-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/Html-Css.png" style="height:80px; width: fit-content;" ></a>
 
 </br></br>
-<a href="https://github.com/achieve-software/JavaScript-Questions" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/jjj.png" style="height:60px; width: fit-content;" ></a>
+<a href="https://github.com/achieve-software/JavaScript-Questions" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/jjj.png" style="height:80px; width: fit-content;" ></a>
 
 </br>
 
