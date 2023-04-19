@@ -1,16 +1,16 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="500" height="290"></br>
 
-## :wave: Hi there, I'm Ariel
+## :wave: Hi there, I'm Alex
 
 <font color="pink"> :heavy_check_mark: I'm a Front-End Developer. </font>
 </br>
 👉👉👉 HTML-CSS-SASS-BOOTSTRAP-JAVASCRİPT
 
-JQUERY-TYPESCRİPT-REACT-JAVA-C#-PYTHON 👈👈👈
+JQUERY-TYPESCRİPT-REACT-JAVA-C#-👈👈👈
 
 ## :man::woman: Connect with me:
 
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]
+![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)
 
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:akivv45@gmail.com)
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)]()
@@ -54,10 +54,20 @@ JQUERY-TYPESCRİPT-REACT-JAVA-C#-PYTHON 👈👈👈
      />
 </br>
 <img
+     src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"
+     alt="Java"
+     />
+</br>
+<img
+     src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"
+     alt="C#"
+     />
+</br>
+<!-- <img
         src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
         alt="Python"
       />
-<br>
+<br> -->
 <img
       src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
       alt="GIT"
@@ -71,23 +81,28 @@ JQUERY-TYPESCRİPT-REACT-JAVA-C#-PYTHON 👈👈👈
 
 ## :star2: My Projects:
 
-<a href="https://github.com/achieve-software/React-Projects" target="_blank" style="text-decoration: none;margin-right:"><img src="./img/React.png" style="height:60px; width: fit-content;" ></a>
-<a href="https://github.com/achieve-software/JavaScript-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/JavaScript.png" style="height:60px; width: fit-content;" ></a>
-<a href="https://github.com/achieve-software/Html-Css-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/Html-Css.png" style="height:60px; width: fit-content;" ></a>
+<a href="https://github.com/achieve-software/React-Projects" target="_blank" style="text-decoration: none;margin-right:"><img src="./img/React.png" style="height:80px; width: fit-content;" ></a>
+<a href="https://github.com/achieve-software/JavaScript-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/JavaScript.png" style="height:80px; width: fit-content;" ></a>
+<a href="https://github.com/achieve-software/Html-Css-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/Html-Css.png" style="height:80px; width: fit-content;" ></a>
 
 </br></br>
-<a href="https://github.com/achieve-software/JavaScript-Questions" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/jjj.png" style="height:60px; width: fit-content;" ></a>
+<a href="https://github.com/achieve-software/JavaScript-Questions" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/jjj.png" style="height:80px; width: fit-content;" ></a>
 
 </br>
 
-<h2 align="center">My Top Projects</h2>
+<h2 align="center">Some Of My Projects</h2>
 
 
 ###Project Demo       |Libraries and Technologies I use     |Project Preview
 :-------------------------|-------------------------|-------------------------
-[IOS Calculator](https://github.com/achieve-software/5IosCalculator) <h3>[Repo](https://github.com/achieve-software/5IosCalculator)</h3> | Vanilla JS | ![IOS-Calculator](https://raw.githubusercontent.com/achieve-software/gif/main/cal.gif)
-[Bootstrap Web Page](https://github.com/achieve-software/7bootstrap) <h3>[Repo](https://github.com/achieve-software/7bootstrap)</h3> | Bootstrap |![Bootsrap-Project](https://github.com/achieve-software/gif/blob/main/boot.gif)
-[Sass Website Page Design](https://github.com/achieve-software/6Sass) <h3>[Repo](https://github.com/achieve-software/6Sass</h3> | Sass, Scss |![Sass-project](https://user-images.githubusercontent.com/102467587/219283604-7709569d-e7fa-4e46-8e3f-55b563f9d79c.gif)<br><h2 align="center">:bulb:Most Used Language</h2>
+[GuessTheNumber Game](https://serene-khapse-2e1043.netlify.app/) <h3>[Repo](https://github.com/achieve-software/3guessnumber)</h3> | JavaScript, Html, Css |![JavaScript-project](https://raw.githubusercontent.com/achieve-software/gif/main/guess1.gif)
+[IOS Calculator](https://leafy-heliotrope-83764c.netlify.app/) <h3>[Repo](https://github.com/achieve-software/5IosCalculator)</h3> | Vanilla JS | ![IOS-Calculator](https://raw.githubusercontent.com/achieve-software/gif/main/cal.gif)
+[Bootstrap Web Page](https://playful-syrniki-8b0921.netlify.app/) <h3>[Repo](https://github.com/achieve-software/7bootstrap)</h3> | Bootstrap |![Bootsrap-Project]( https://raw.githubusercontent.com/achieve-software/gif/main/bs(7)-min.gif)
+[Sass Website Page Design](https://fluffy-brigadeiros-21af96.netlify.app/) <h3>[Repo](https://github.com/achieve-software/6Sass)</h3> | Sass, Scss |![Sass-project](https://raw.githubusercontent.com/achieve-software/gif/main/sasss(2)-min.gif)
+[Google Landing Page](https://stately-boba-9ac91e.netlify.app/) <h3>[Repo](https://github.com/achieve-software/2googleLand)</h3> | Html, Css | ![GoogleLanding](https://raw.githubusercontent.com/achieve-software/gif/main/google.gif)
+[Web Site Page](https://cosmic-queijadas-ef475f.netlify.app/) <h3>[Repo](https://github.com/achieve-software/4websitePage)</h3> | Html, Css | ![Web-Site-Page](https://raw.githubusercontent.com/achieve-software/gif/main/web.gif)
+[Parallax Web Site Page](https://verdant-churros-24bd00.netlify.app/) <h3>[Repo](https://github.com/achieve-software/3parallaxweb)</h3> | Html, Css | ![Parallax-Web-Site-Page](https://raw.githubusercontent.com/achieve-software/gif/main/parallax1-min.gif)
+[Survey Form Page](https://tourmaline-tapioca-5a2336.netlify.app/) <h3>[Repo](https://github.com/achieve-software/1shop)</h3> | Html, Css | ![Survey-Form](https://raw.githubusercontent.com/achieve-software/gif/main/form1.gif)
 <div  align="center"> 
         
 <br/>
