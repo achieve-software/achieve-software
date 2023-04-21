@@ -96,18 +96,7 @@ JQUERY-TYPESCRİPT-REACT-JAVA-C#-👈👈👈
 
 
 </br>
-<h2 align="center">:bulb:Most Used Language</h2>
-<div  align="center">
-<br/>
-<img
-     src="https://github-readme-stats.vercel.app/api?username=achieve-software&theme=blue-green"
-     alt=""
-     /> </br></br></br>
-<img
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=achieve-software&theme=blue-green"
-     alt=""
-     /> <br/>
-</div>
+
 
 <h2 align="center">Some Of My Projects</h2>
 
@@ -129,4 +118,15 @@ JQUERY-TYPESCRİPT-REACT-JAVA-C#-👈👈👈
         
 <br/>
         
-
+<h2 align="center">:bulb:Most Used Language</h2>
+<div  align="center">
+<br/>
+<img
+     src="https://github-readme-stats.vercel.app/api?username=achieve-software&theme=blue-green"
+     alt=""
+     /> </br></br></br>
+<img
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=achieve-software&theme=blue-green"
+     alt=""
+     /> <br/>
+</div>
