@@ -98,22 +98,37 @@ JQUERY-TYPESCRİPT-REACT-JAVA-C#-👈👈👈
 </br>
 
 
-<h2 align="center">Some Of My Projects</h2>
-
+<h2 align="center">Some Of My Html-Css Projects</h2>
 
 ###Project Demo       |Libraries and Technologies I use     |Project Preview
 :-------------------------|-------------------------|-------------------------
+[Web Site Page](https://cosmic-queijadas-ef475f.netlify.app/) <h3>[Repo](https://github.com/achieve-software/4websitePage)</h3> | Html, Css | ![Web-Site-Page](https://raw.githubusercontent.com/achieve-software/gif/main/web.gif)
+[Parallax Web Site Page](https://verdant-churros-24bd00.netlify.app/) <h3>[Repo](https://github.com/achieve-software/3parallaxweb)</h3> | Html, Css | ![Parallax-Web-Site-Page](https://raw.githubusercontent.com/achieve-software/gif/main/parallax1-min.gif)
+[Google Landing Page](https://stately-boba-9ac91e.netlify.app/) <h3>[Repo](https://github.com/achieve-software/2googleLand)</h3> | Html, Css | ![GoogleLanding](https://raw.githubusercontent.com/achieve-software/gif/main/google.gif)
+[Survey Form Page](https://tourmaline-tapioca-5a2336.netlify.app/) <h3>[Repo](https://github.com/achieve-software/1shop)</h3> | Html, Css | ![Survey-Form](https://raw.githubusercontent.com/achieve-software/gif/main/form1.gif)
+
+<h2 align="center">Some Of My JavaScript Projects</h2>
+
+###Project Demo       |Libraries and Technologies I use     |Project Preview
+:-------------------------|-------------------------|-------------------------
+[IOS Calculator](https://leafy-heliotrope-83764c.netlify.app/) <h3>[Repo](https://github.com/achieve-software/5IosCalculator)</h3> | Vanilla JS | ![IOS-Calculator](https://raw.githubusercontent.com/achieve-software/gif/main/cal.gif) 
 [GuessTheNumber Game](https://serene-khapse-2e1043.netlify.app/) <h3>[Repo](https://github.com/achieve-software/3guessnumber)</h3> | JavaScript, Html, Css |![JavaScript-project](https://raw.githubusercontent.com/achieve-software/gif/main/guess1.gif)
-[IOS Calculator](https://leafy-heliotrope-83764c.netlify.app/) <h3>[Repo](https://github.com/achieve-software/5IosCalculator)</h3> | Vanilla JS | ![IOS-Calculator](https://raw.githubusercontent.com/achieve-software/gif/main/cal.gif)
+
+<h2 align="center">Some Of My Bootstrap-Sass Projects</h2>
+
+###Project Demo       |Libraries and Technologies I use     |Project Preview
+:-------------------------|-------------------------|-------------------------
 [Bootstrap Web Page](https://playful-syrniki-8b0921.netlify.app/) <h3>[Repo](https://github.com/achieve-software/7bootstrap)</h3> | Bootstrap |![Bootsrap-Project]( https://raw.githubusercontent.com/achieve-software/gif/main/bs(7)-min.gif)
 [Bootstrap Web Page 2](https://glowing-cucurucho-52cd3f.netlify.app/) <h3>[Repo](https://github.com/achieve-software/8bootstraplessonproject)</h3> | Bootstrap |![Bootsrap-Project]( https://raw.githubusercontent.com/achieve-software/gif/main/boot-min(1).gif)
 [Sass Website Colors](https://jovial-swan-b01717.netlify.app/) <h3>[Repo](https://github.com/achieve-software/sass)</h3> | Sass, Scss |![Sass-project](https://raw.githubusercontent.com/achieve-software/gif/main/sasscolor.gif)
 [Sass Website Page Design](https://fluffy-brigadeiros-21af96.netlify.app/) <h3>[Repo](https://github.com/achieve-software/6Sass)</h3> | Sass, Scss |![Sass-project](https://raw.githubusercontent.com/achieve-software/gif/main/sasss(2)-min.gif)
 [Sass Website Page Design 2](https://fluffy-kashata-3244fe.netlify.app/) <h3>[Repo](https://github.com/achieve-software/sass-projesi)</h3> | Sass, Scss |![Sass-project 2](https://raw.githubusercontent.com/achieve-software/gif/main/sass-project-min.gif)
-[Web Site Page](https://cosmic-queijadas-ef475f.netlify.app/) <h3>[Repo](https://github.com/achieve-software/4websitePage)</h3> | Html, Css | ![Web-Site-Page](https://raw.githubusercontent.com/achieve-software/gif/main/web.gif)
-[Parallax Web Site Page](https://verdant-churros-24bd00.netlify.app/) <h3>[Repo](https://github.com/achieve-software/3parallaxweb)</h3> | Html, Css | ![Parallax-Web-Site-Page](https://raw.githubusercontent.com/achieve-software/gif/main/parallax1-min.gif)
-[Google Landing Page](https://stately-boba-9ac91e.netlify.app/) <h3>[Repo](https://github.com/achieve-software/2googleLand)</h3> | Html, Css | ![GoogleLanding](https://raw.githubusercontent.com/achieve-software/gif/main/google.gif)
-[Survey Form Page](https://tourmaline-tapioca-5a2336.netlify.app/) <h3>[Repo](https://github.com/achieve-software/1shop)</h3> | Html, Css | ![Survey-Form](https://raw.githubusercontent.com/achieve-software/gif/main/form1.gif)
+
+<h2 align="center">Some Of My React Projects</h2>
+
+###Project Demo       |Libraries and Technologies I use     |Project Preview
+:-------------------------|-------------------------|-------------------------
+[Sass Website Page Design 2](https://fluffy-kashata-3244fe.netlify.app/) <h3>[Repo](https://github.com/achieve-software/sass-projesi)</h3> | Sass, Scss |![Sass-project 2](https://raw.githubusercontent.com/achieve-software/gif/main/sass-project-min.gif)
 <div  align="center"> 
         
 <br/>
