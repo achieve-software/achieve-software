@@ -98,7 +98,13 @@ JQUERY-TYPESCRİPT-REACT-JAVA-C#-👈👈👈
 </br>
 
 
-<h2 align="center">Some Of My Html-Css Projects</h2>
+<h2 align="center">Some Of My <img
+        src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+        alt="HTML5"
+      /> <img
+        src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+        alt="CSS3"
+      /> Projects</h2>
 
 ###Project Demo       |Libraries and Technologies I use     |Project Preview
 :-------------------------|-------------------------|-------------------------
@@ -107,14 +113,23 @@ JQUERY-TYPESCRİPT-REACT-JAVA-C#-👈👈👈
 [Google Landing Page](https://stately-boba-9ac91e.netlify.app/) <h3>[Repo](https://github.com/achieve-software/2googleLand)</h3> | Html, Css | ![GoogleLanding](https://raw.githubusercontent.com/achieve-software/gif/main/google.gif)
 [Survey Form Page](https://tourmaline-tapioca-5a2336.netlify.app/) <h3>[Repo](https://github.com/achieve-software/1shop)</h3> | Html, Css | ![Survey-Form](https://raw.githubusercontent.com/achieve-software/gif/main/form1.gif)
 
-<h2 align="center">Some Of My JavaScript Projects</h2>
+<h2 align="center">Some Of My <img
+        src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
+        alt="JavaScript"
+      /> Projects</h2>
 
 ###Project Demo       |Libraries and Technologies I use     |Project Preview
 :-------------------------|-------------------------|-------------------------
 [IOS Calculator](https://leafy-heliotrope-83764c.netlify.app/) <h3>[Repo](https://github.com/achieve-software/5IosCalculator)</h3> | Vanilla JS | ![IOS-Calculator](https://raw.githubusercontent.com/achieve-software/gif/main/cal.gif) 
 [GuessTheNumber Game](https://serene-khapse-2e1043.netlify.app/) <h3>[Repo](https://github.com/achieve-software/3guessnumber)</h3> | JavaScript, Html, Css |![JavaScript-project](https://raw.githubusercontent.com/achieve-software/gif/main/guess1.gif)
 
-<h2 align="center">Some Of My Bootstrap-Sass Projects</h2>
+<h2 align="center">Some Of My   <img
+        src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
+        alt="Bootstrap"
+      /> <img
+        src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"
+        alt="Sass"
+      /> Projects</h2>
 
 ###Project Demo       |Libraries and Technologies I use     |Project Preview
 :-------------------------|-------------------------|-------------------------
@@ -124,7 +139,10 @@ JQUERY-TYPESCRİPT-REACT-JAVA-C#-👈👈👈
 [Sass Website Page Design](https://fluffy-brigadeiros-21af96.netlify.app/) <h3>[Repo](https://github.com/achieve-software/6Sass)</h3> | Sass, Scss |![Sass-project](https://raw.githubusercontent.com/achieve-software/gif/main/sasss(2)-min.gif)
 [Sass Website Page Design 2](https://fluffy-kashata-3244fe.netlify.app/) <h3>[Repo](https://github.com/achieve-software/sass-projesi)</h3> | Sass, Scss |![Sass-project 2](https://raw.githubusercontent.com/achieve-software/gif/main/sass-project-min.gif)
 
-<h2 align="center">Some Of My React Projects</h2>
+<h2 align="center"> Some Of My <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+        alt="Reactjs"
+      />  Projects</h2>
+
 
 ###Project Demo       |Libraries and Technologies I use     |Project Preview
 :-------------------------|-------------------------|-------------------------
