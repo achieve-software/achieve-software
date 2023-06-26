@@ -7,7 +7,6 @@
 <a href="https://github.com/achieve-software/React-Projects" target="_blank" style="text-decoration: none;margin-right:"><img src="./img/React.png" style="height:80px; width: fit-content;" ></a>
 <a href="https://github.com/achieve-software/React-Lessons" target="_blank" style="text-decoration: none;margin-right:"><img src="./img/React - lessons.png" style="height:80px; width: fit-content;" ></a> <hr>
 </div>
-</br></br></br>
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="500" height="290"></br>
 
 ## :wave: Hi there, I'm Full Stack Developer.
