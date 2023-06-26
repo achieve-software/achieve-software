@@ -41,11 +41,11 @@
         src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
         alt="CSS3"
       />
-           </br>
 <img
      src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
      alt="VSCode"
      />
+        <br>
         <img
       src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
       alt="GIT"
@@ -54,8 +54,7 @@
       src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"
       alt="JIRA"
       />
-        </br>
-        <img
+          <img
         src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
         alt="Bootstrap"
       />
@@ -63,8 +62,7 @@
         src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"
         alt="Sass"
       />
-      </br>
-<img
+    <img
      src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"
      alt="Java"
      />
@@ -72,8 +70,7 @@
      src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"
      alt="C#"
      />
-      </br>
-<img
+   <img
         src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
         alt="Python"
       />
