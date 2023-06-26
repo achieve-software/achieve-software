@@ -100,7 +100,7 @@ JQUERY-TYPESCRİPT-REACT-JAVA-C#-👈👈👈
 ###Project Demo       |Libraries and Technologies I use     |Project Preview
 :-------------------------|-------------------------|-------------------------
 [Sass Website Page Design](https://fluffy-brigadeiros-21af96.netlify.app/) <h3>[Repo](https://github.com/achieve-software/6Sass)</h3> | Sass, Scss |![Sass-project](https://raw.githubusercontent.com/achieve-software/gif/main/sasss(2)-min.gif)
-[IOS Calculator](https://gentle-babka-dda712.netlify.app/) <h3>[Repo](https://github.com/achieve-software/50-ispalindrome)</h3> | Vanilla JS | ![İs-Palindrome](https://github.com/achieve-software/achieve-software/blob/main/img/ispalindrome.gif?raw=true) 
+[Is palindrome](https://gentle-babka-dda712.netlify.app/) <h3>[Repo](https://github.com/achieve-software/50-ispalindrome)</h3> | JavaScript, Html, Css | ![İs-Palindrome](https://github.com/achieve-software/achieve-software/blob/main/img/ispalindrome.gif?raw=true) 
 [GuessTheNumber Game](https://serene-khapse-2e1043.netlify.app/) <h3>[Repo](https://github.com/achieve-software/3guessnumber)</h3> | JavaScript, Html, Css |![JavaScript-project](https://raw.githubusercontent.com/achieve-software/gif/main/guess1.gif)
 [IOS Calculator](https://leafy-heliotrope-83764c.netlify.app/) <h3>[Repo](https://github.com/achieve-software/5IosCalculator)</h3> | Vanilla JS | ![IOS-Calculator](https://raw.githubusercontent.com/achieve-software/gif/main/cal.gif) 
 
