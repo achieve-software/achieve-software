@@ -1,12 +1,12 @@
-
+<div align="center">
 <a href="https://github.com/achieve-software/Html-Css-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/Html-Css.png" style="height:80px; width: fit-content;" ></a> 
 <a href="https://github.com/achieve-software/Sass-Bootstrap-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/sass.png" style="height:80px; width: fit-content;" ></a> 
 <a href="https://github.com/achieve-software/JavaScript-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/JavaScript.png" style="height:80px; width: fit-content;" ></a> 
 </br></br>
 <a href="https://github.com/achieve-software/JavaScript-Questions" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/jjj.png" style="height:80px; width: fit-content;" ></a>
 <a href="https://github.com/achieve-software/React-Projects" target="_blank" style="text-decoration: none;margin-right:"><img src="./img/React.png" style="height:80px; width: fit-content;" ></a>
-<a href="https://github.com/achieve-software/React-Lessons" target="_blank" style="text-decoration: none;margin-right:"><img src="./img/React - lessons.png" style="height:80px; width: fit-content;" ></a>
-
+<a href="https://github.com/achieve-software/React-Lessons" target="_blank" style="text-decoration: none;margin-right:"><img src="./img/React - lessons.png" style="height:80px; width: fit-content;" ></a> <hr>
+</div>
 </br></br></br>
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="500" height="290"></br>
 
