@@ -77,7 +77,7 @@ JQUERY-TYPESCRİPT-REACT-JAVA-C#-👈👈👈
       />
 
 </div>
-</br>
+</br></br></br></br></br></br></br>
 <!--<div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>-->
 
 <a href="https://github.com/achieve-software/Html-Css-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/Html-Css.png" style="height:80px; width: fit-content;" ></a> 
