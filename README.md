@@ -11,7 +11,6 @@ JQUERY-TYPESCRİPT-REACT-JAVA-C#-👈👈👈
 ## :man::woman: Connect with me:
 
 ![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)
-
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:akivv45@gmail.com)
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)]()
 
