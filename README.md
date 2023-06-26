@@ -7,19 +7,11 @@
 <a href="https://github.com/achieve-software/React-Projects" target="_blank" style="text-decoration: none;margin-right:"><img src="./img/React.png" style="height:80px; width: fit-content;" ></a>
 <a href="https://github.com/achieve-software/React-Lessons" target="_blank" style="text-decoration: none;margin-right:"><img src="./img/React - lessons.png" style="height:80px; width: fit-content;" ></a>
 
-
+</br></br></br>
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="500" height="290"></br>
 
-## :wave: Hi there, I'm Alex
-
-<font color="pink"> :heavy_check_mark: I'm a Front-End Developer. </font>
-</br>
-👉👉👉 HTML-CSS-SASS-BOOTSTRAP-JAVASCRİPT
-
-JQUERY-TYPESCRİPT-REACT-JAVA-C#-👈👈👈
-
-## :man::woman: Connect with me:
-
+## :wave: Hi there, I'm Full Stack Developer.
+# Connect with me:
 ![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:akivv45@gmail.com)
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)]()
@@ -84,17 +76,9 @@ JQUERY-TYPESCRİPT-REACT-JAVA-C#-👈👈👈
         src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
         alt="Python"
       />
-
 </div>
-</br></br></br>
+
 <!--<div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>-->
-
-
-</br></br>
-
-
-</br>
-
 
 <h2 align="center">Some Of My Projects</h2>
 
