@@ -80,9 +80,6 @@ JQUERY-TYPESCRİPT-REACT-JAVA-C#-👈👈👈
 </br>
 <!--<div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>-->
 
-## :star2: My Projects:
-
-
 <a href="https://github.com/achieve-software/Html-Css-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/Html-Css.png" style="height:80px; width: fit-content;" ></a> 
 <a href="https://github.com/achieve-software/Sass-Bootstrap-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/sass.png" style="height:80px; width: fit-content;" ></a> 
 <a href="https://github.com/achieve-software/JavaScript-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/JavaScript.png" style="height:80px; width: fit-content;" ></a> 
@@ -98,13 +95,7 @@ JQUERY-TYPESCRİPT-REACT-JAVA-C#-👈👈👈
 </br>
 
 
-<h2 align="center">Some Of My <img
-        src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
-        alt="HTML5"
-      /> <img
-        src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
-        alt="CSS3"
-      /> Projects</h2>
+<h2 align="center">Some Of My Projects</h2>
 
 ###Project Demo       |Libraries and Technologies I use     |Project Preview
 :-------------------------|-------------------------|-------------------------
@@ -112,40 +103,13 @@ JQUERY-TYPESCRİPT-REACT-JAVA-C#-👈👈👈
 [Parallax Web Site Page](https://verdant-churros-24bd00.netlify.app/) <h3>[Repo](https://github.com/achieve-software/3parallaxweb)</h3> | Html, Css | ![Parallax-Web-Site-Page](https://raw.githubusercontent.com/achieve-software/gif/main/parallax1-min.gif)
 [Google Landing Page](https://stately-boba-9ac91e.netlify.app/) <h3>[Repo](https://github.com/achieve-software/2googleLand)</h3> | Html, Css | ![GoogleLanding](https://raw.githubusercontent.com/achieve-software/gif/main/google.gif)
 [Survey Form Page](https://tourmaline-tapioca-5a2336.netlify.app/) <h3>[Repo](https://github.com/achieve-software/1shop)</h3> | Html, Css | ![Survey-Form](https://raw.githubusercontent.com/achieve-software/gif/main/form1.gif)
-
-<h2 align="center">Some Of My <img
-        src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
-        alt="JavaScript"
-      /> Projects</h2>
-
-###Project Demo       |Libraries and Technologies I use     |Project Preview
-:-------------------------|-------------------------|-------------------------
 [IOS Calculator](https://leafy-heliotrope-83764c.netlify.app/) <h3>[Repo](https://github.com/achieve-software/5IosCalculator)</h3> | Vanilla JS | ![IOS-Calculator](https://raw.githubusercontent.com/achieve-software/gif/main/cal.gif) 
 [GuessTheNumber Game](https://serene-khapse-2e1043.netlify.app/) <h3>[Repo](https://github.com/achieve-software/3guessnumber)</h3> | JavaScript, Html, Css |![JavaScript-project](https://raw.githubusercontent.com/achieve-software/gif/main/guess1.gif)
-
-<h2 align="center">Some Of My   <img
-        src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
-        alt="Bootstrap"
-      /> <img
-        src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"
-        alt="Sass"
-      /> Projects</h2>
-
-###Project Demo       |Libraries and Technologies I use     |Project Preview
-:-------------------------|-------------------------|-------------------------
 [Bootstrap Web Page](https://playful-syrniki-8b0921.netlify.app/) <h3>[Repo](https://github.com/achieve-software/7bootstrap)</h3> | Bootstrap |![Bootsrap-Project]( https://raw.githubusercontent.com/achieve-software/gif/main/bs(7)-min.gif)
 [Bootstrap Web Page 2](https://glowing-cucurucho-52cd3f.netlify.app/) <h3>[Repo](https://github.com/achieve-software/8bootstraplessonproject)</h3> | Bootstrap |![Bootsrap-Project]( https://raw.githubusercontent.com/achieve-software/gif/main/boot-min(1).gif)
 [Sass Website Colors](https://jovial-swan-b01717.netlify.app/) <h3>[Repo](https://github.com/achieve-software/sass)</h3> | Sass, Scss |![Sass-project](https://raw.githubusercontent.com/achieve-software/gif/main/sasscolor.gif)
 [Sass Website Page Design](https://fluffy-brigadeiros-21af96.netlify.app/) <h3>[Repo](https://github.com/achieve-software/6Sass)</h3> | Sass, Scss |![Sass-project](https://raw.githubusercontent.com/achieve-software/gif/main/sasss(2)-min.gif)
 [Sass Website Page Design 2](https://fluffy-kashata-3244fe.netlify.app/) <h3>[Repo](https://github.com/achieve-software/sass-projesi)</h3> | Sass, Scss |![Sass-project 2](https://raw.githubusercontent.com/achieve-software/gif/main/sass-project-min.gif)
-
-<h2 align="center"> Some Of My <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
-        alt="Reactjs"
-      />  Projects</h2>
-
-
-###Project Demo       |Libraries and Technologies I use     |Project Preview
-:-------------------------|-------------------------|-------------------------
 [Sass Website Page Design 2](https://fluffy-kashata-3244fe.netlify.app/) <h3>[Repo](https://github.com/achieve-software/sass-projesi)</h3> | Sass, Scss |![Sass-project 2](https://raw.githubusercontent.com/achieve-software/gif/main/sass-project-min.gif)
 <div  align="center"> 
         
