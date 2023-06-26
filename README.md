@@ -88,20 +88,3 @@
 [Is palindrome](https://gentle-babka-dda712.netlify.app/) <h3>[Repo](https://github.com/achieve-software/50-ispalindrome)</h3> | JavaScript, Html, Css | ![İs-Palindrome](https://github.com/achieve-software/achieve-software/blob/main/img/ispalindrome.gif?raw=true) 
 [GuessTheNumber Game](https://serene-khapse-2e1043.netlify.app/) <h3>[Repo](https://github.com/achieve-software/3guessnumber)</h3> | JavaScript, Html, Css |![JavaScript-project](https://raw.githubusercontent.com/achieve-software/gif/main/guess1.gif)
 [IOS Calculator](https://leafy-heliotrope-83764c.netlify.app/) <h3>[Repo](https://github.com/achieve-software/5IosCalculator)</h3> | Vanilla JS | ![IOS-Calculator](https://github.com/achieve-software/achieve-software/blob/main/img/%C4%B1os%20calculator.gif?raw=true) 
-
-<div  align="center"> 
-        
-<br/>
-        
-<h2 align="center">:bulb:Most Used Language</h2>
-<div  align="center">
-<br/>
-<img
-     src="https://github-readme-stats.vercel.app/api?username=achieve-software&theme=blue-green"
-     alt=""
-     /> </br></br></br>
-<img
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=achieve-software&theme=blue-green"
-     alt=""
-     /> <br/>
-</div>
