@@ -5,8 +5,9 @@
 </br></br>
 <a href="https://github.com/achieve-software/JavaScript-Questions" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/jjj.png" style="height:80px; width: fit-content;" ></a>
 <a href="https://github.com/achieve-software/React-Projects" target="_blank" style="text-decoration: none;margin-right:"><img src="./img/React.png" style="height:80px; width: fit-content;" ></a>
-<a href="https://github.com/achieve-software/React-Lessons" target="_blank" style="text-decoration: none;margin-right:"><img src="./img/React - lessons.png" style="height:80px; width: fit-content;" ></a> <hr>
+<a href="https://github.com/achieve-software/React-Lessons" target="_blank" style="text-decoration: none;margin-right:"><img src="./img/React - lessons.png" style="height:80px; width: fit-content;" ></a><hr>
 </div>
+<div align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="500" height="290"></br>
 
 ## :wave: Hi there, I'm Full Stack Developer.
@@ -15,9 +16,10 @@
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:akivv45@gmail.com)
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)]()
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=" alt=""/></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=" alt=""/></p> <hr>
+</div>
 
-
+<div align="center">
 </br><h2 align="center">:rocket:Technical Skills</h2>
 <div align="center">
 <img
@@ -75,10 +77,9 @@
         src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
         alt="Python"
       />
-</div>
+</div> <hr>
 
-<!--<div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>-->
-
+   </br>      
 <h2 align="center">Some Of My Projects</h2>
 
 ###Project Demo       |Libraries and Technologies I use     |Project Preview
