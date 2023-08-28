@@ -13,7 +13,7 @@
 </div>
 </br>    
   <img
-        src="https://github.com/achieve-software/achieve-software/blob/main/img/fr.png?raw=true"
+        src="https://github.com/achieve-software/achieve-software/blob/main/img/bck.png?raw=true"
         alt="Reactjs"
       /> 
 <div align="center">
