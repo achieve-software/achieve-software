@@ -16,6 +16,7 @@
         src="https://github.com/achieve-software/achieve-software/blob/main/img/bck.png?raw=true"
         alt="Reactjs"
       /> 
+      <a href="" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/nodejs.png" style="height:80px; width: fit-content;" ></a> 
 <div align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="500" height="290"></br>
 
