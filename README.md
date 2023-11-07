@@ -14,6 +14,7 @@
 <a href="https://github.com/achieve-software/React-Projects" target="_blank" style="text-decoration: none;margin-right:"><img src="./img/React.png" style="height:80px; width: fit-content;" ></a>
 <a href="https://github.com/achieve-software/React-Lessons" target="_blank" style="text-decoration: none;margin-right:"><img src="./img/React - lessons.png" style="height:80px; width: fit-content;" ></a>
 </div>
+<hr>
 <div align="center">
 
   <img src="https://github.com/achieve-software/achieve-software/blob/main/img/bck.png?raw=true" alt="BCK" /> 
